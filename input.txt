@@ -1,0 +1,25 @@
+- Leetcode ¡¾125¡¿Valid Palindrome (Easy)
+
+https://leetcode.com/problems/valid-palindrome/description/
+
+- Leetcode ¡¾235¡¿Lowest Common Ancestor of a Binary Search Tree (Easy)
+
+by mantis_shrimp
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+
+- Leetcode ¡¾236¡¿Lowest Common Ancestor of a Binary Tree (Medium)
+
+by mantis_shrimp
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+
+- Leetcode ¡¾211¡¿Add and Search Word - Data structure design (Medium)
+
+https://leetcode.com/problems/add-and-search-word-data-structure-design/description/
+
+- Leetcode ¡¾128¡¿Longest Consecutive Sequence (Hard)
+
+https://leetcode.com/problems/longest-consecutive-sequence/description/
+
+- Leetcode ¡¾146¡¿LRU Cache (Hard)
+
+https://leetcode.com/problems/lru-cache/description/
