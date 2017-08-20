@@ -1,4 +1,4 @@
-#LeetCode Spider
+# LeetCode Spider
 
 a simple python script
 input a set of problem links, spider will automatically scratch your accepted solutions and push to github
@@ -30,13 +30,13 @@ https://github.com/netario/leetcode-solutions/blob/master/235_lowest_common_ance
 https://github.com/netario/leetcode-solutions/blob/master/236_lowest_common_ancestor_of_a_binary_tree.cpp
 ```
 
-###Test Environment
+### Test Environment
 **Windows 7**
 
-###Required Python Package
+### Required Python Package
 python -m pip install **selenium**
 python -m pip install **gitpython**
 
-###Useful Links
+### Useful Links
 **How to connecting to github using SSH keys**
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
